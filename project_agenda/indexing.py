@@ -155,7 +155,7 @@ class ProjectAgendaIndexer:
                 })
         
         return parsed_responses
-    
+    # Embedding generator function
     def generate_embeddings(self, texts):
         """Generate embeddings for a list of texts"""
         if not texts or all(not t for t in texts):
@@ -170,7 +170,7 @@ class ProjectAgendaIndexer:
     def process_project(self, project, cursor):
         """Process a single project and prepare it for indexing"""
         try:
-            # Parse agenda questions
+            # Parsing agenda questions
             questions = self.parse_agenda_questions(project.get('agenda_questions'))
             
             # Generate project-level text for embeddings
