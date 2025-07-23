@@ -3,8 +3,9 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 # Pull and run Llama 3.1 8B (this downloads ~4.7GB)
 ollama pull llama3.1:8b
+## ollama pull llama3.1:8b-instruct-fp16
 ollama run llama3.1:8b
-
+## ollama run llama3.1:8b-instruct-fp16
 
 # In another terminal, run the API server
 ollama serve
