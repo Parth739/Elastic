@@ -146,10 +146,10 @@ sudo certbot --nginx -d llm-be.infollion.ai
 
 ```bash
 # Test the HTTPS endpoint
-curl https://llm-be.infollion.ai/api/tags
+curl https://llm-be.domain-name.ai/api/tags
 
 # Test a generation request
-curl https://llm-be.infollion.ai/api/generate -d '{
+curl https://llm-be.domain-name.ai/api/generate -d '{
   "model": "llama3.1:8b-instruct-fp16",
   "prompt": "Hello, how are you?",
   "stream": false
