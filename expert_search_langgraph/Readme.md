@@ -22,9 +22,9 @@ expert_search_langgraph/
 
 Flow of this LangGraph expert search agent with a detailed flowchart and explanation:
 
-## Agent Flow Diagram
+## Agent Flow Diagram exmaple
 
-```mermaid
+```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                              USER QUERY INPUT                               │
 │                          "machine learning expert"                          │
