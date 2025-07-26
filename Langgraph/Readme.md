@@ -1,5 +1,7 @@
 # LangGraph
-
+Useful articles 
+- https://medium.com/data-science/from-basics-to-advanced-exploring-langgraph-e8c1cf4db787,
+- https://www.pinecone.io/learn/langgraph-research-agent/
 ## What is LangGraph?
 
 **LangGraph** is a versatile Python library designed for building stateful, cyclic, and multi-actor Large Language Model (LLM) applications . Created by LangChain, LangGraph provides developers with a powerful framework to create complex and flexible agent workflows using stateful graphs and built-in memory management .
