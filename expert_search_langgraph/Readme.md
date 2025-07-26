@@ -176,3 +176,10 @@ The top 5 experts are selected based on fused scores and returned to the user.
 - Captures both conceptual similarity and specific terminology
 - Especially useful for technical expert search
 
+Issues with this one were that 
+- No keyword generation Using LLMs
+- If we get a project and we want to recomend we should also , generate ideal expert profile using the LLM and then search it in the database
+- Can Use finetunning on the agenda database to train LLM how ideal expert profile looks like for that type of particular project/agenda
+- Basic Reranking
+- Used Work_exp whole as combined text to create embeddings
+- Single-Threaded Architecture
