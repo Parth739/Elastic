@@ -1,5 +1,8 @@
 # Fine-Tuning Llama-3 for Expert Recommendation
 
+https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07
+https://www.datacamp.com/tutorial/fine-tuning-large-language-models
+
 Fine-tune a Large Language Model (LLM) like Mistral or LLaMA using QLoRA to recommend domain experts based on natural language agenda queries.
 
 The fine-tuning process uses **QLoRA (Quantized Low-Rank Adaptation)**, a parameter-efficient technique that allows for training large models like Llama-3 on a single GPU with limited VRAM.
