@@ -69,4 +69,4 @@ Articles
 - https://www.pinecone.io/learn/langgraph-research-agent/
 - https://blog.futuresmart.ai/multi-agent-system-with-langgraph
 - https://vijaykumarkartha.medium.com/multiple-ai-agents-creating-multi-agent-workflows-using-langgraph-and-langchain-0587406ec4e6
-
+- https://www.philschmid.de/fine-tune-embedding-model-for-rag
