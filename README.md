@@ -32,7 +32,6 @@ Step-by-step process to deploy LLM on GPU servers or local machines using Ollama
 - Model selection and downloading
 - API endpoint configuration
 - Nginx reverse proxy setup
-- Security best practices
 
 ### Fine-Tuning Module
 Fine-tuning of Llama models on Kaggle using the project agenda dataset. The effectiveness of fine-tuning depends heavily on how the custom dataset is shaped according to input and output requirements. This module demonstrates **structured output generation** for domain-specific tasks.
