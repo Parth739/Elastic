@@ -18,7 +18,7 @@ EXPERT_INDEX = "dynamic_expert_search_v1_0_12_with_embeddings"
 PROJECT_INDEX = "dynamic_project_search_v1_0_6_with_embeddings_v1"
 
 # LLM Configuration
-LLM_API_URL = "https://llm-be.infollion.ai/api/generate"
+LLM_API_URL = "https://llm-be.domain-name.ai/api/generate"
 LLM_MODEL = "deepseek-r1:32b-qwen-distill-q4_K_M" 
 LLM_TIMEOUT = 120
 
