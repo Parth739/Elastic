@@ -63,10 +63,11 @@ Third iteration of the expert search system featuring:
 ALL Useful links - 
 
 TLDraw - https://www.tldraw.com/f/FKrF5S80z5kSVhfXNWcyl?d=v-4416.-5739.5845.3232.Azw61EZF58rPBasK0naA2
-Articles - https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07
-https://www.datacamp.com/tutorial/fine-tuning-large-language-models
-https://medium.com/data-science/from-basics-to-advanced-exploring-langgraph-e8c1cf4db787
-https://www.pinecone.io/learn/langgraph-research-agent/
-https://blog.futuresmart.ai/multi-agent-system-with-langgraph
-https://vijaykumarkartha.medium.com/multiple-ai-agents-creating-multi-agent-workflows-using-langgraph-and-langchain-0587406ec4e6
+Articles 
+- https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07
+- https://www.datacamp.com/tutorial/fine-tuning-large-language-models
+- https://medium.com/data-science/from-basics-to-advanced-exploring-langgraph-e8c1cf4db787
+- https://www.pinecone.io/learn/langgraph-research-agent/
+- https://blog.futuresmart.ai/multi-agent-system-with-langgraph
+- https://vijaykumarkartha.medium.com/multiple-ai-agents-creating-multi-agent-workflows-using-langgraph-and-langchain-0587406ec4e6
 
