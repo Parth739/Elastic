@@ -7,14 +7,12 @@ class QueryType(Enum):
     DIRECT_EXPERT = "direct_expert"
     PROJECT_BASED = "project_based"
     SKILL_DECOMPOSITION = "skill_decomposition"
-    NETWORK_EXPANSION = "network_expansion"
     SEMANTIC_SIMILARITY = "semantic_similarity"
 
 class AgentState(Enum):
     IDLE = "idle"
     SEARCHING = "searching"
     LEARNING = "learning"
-    MONITORING = "monitoring"
     SUGGESTING = "suggesting"
 
 class ReasoningTrace(BaseModel):
